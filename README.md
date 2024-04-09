@@ -1,9 +1,13 @@
-<h1 align="center">Hi 👋, I'm Rudra Joshi</h1>
-<h3 align="center">A ECE (Electronics & Communications Engineering) Undergrad</h3>
+<h1 align="center">Namaste 🙏, I'm Rudra Joshi</h1>
+<h3 align="center">A ECE (Electronics & Communications Engineering) Undergrad From Bharat (i.e India)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudra-joshi-002&label=Profile%20views&color=0e75b6&style=flat" alt="rudra-joshi-002" /> </p>
 
+- 👀 I’m interested in **Electronics and Programming**
+
 - 🌱 I’m currently learning **Programming languages such as C, C++, and Python along with HDL's (Hardware Description Languages) such as Verilog**
+
+- 🤝 I’m looking to collaborate on **Anything Related To Electronics & Computations**
 
 - 💬 Ask me about **Electronics, Verilog, Digital Electronics, & General Programming**
 
@@ -13,7 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rudra joshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rudra joshi" height="30" width="40" /></a>
+<a href="https://twitter.com/rudrajoshi002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rudrajoshi002" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/ rudra-joshi-a58841248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ rudra-joshi-a58841248" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/rudra_joshi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rudra_joshi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
