@@ -1,5 +1,5 @@
 <h1 align="center">Namaste 🙏, I'm Rudra Joshi</h1>
-<h3 align="center">A ECE (Electronics & Communications Engineering) Undergrad From Bharat (i.e India)</h3>
+<h3 align="center">A ECE (Electronics & Communications Engineering) Undergrad From Bharat</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudra-joshi-002&label=Profile%20views&color=0e75b6&style=flat" alt="rudra-joshi-002" /> </p>
 
@@ -9,9 +9,13 @@
 
 - 🤝 I’m looking to collaborate on **Anything Related To Electronics & Computations**
 
+- ⭐ You can see my Hardware Projects Through: [All Hardware Projects](https://drive.google.com/drive/folders/1BocLFLrD-G_mDnM3_MketgfDV_QvVRNh?usp=drive_link)
+
 - 💬 Ask me about **Electronics, Verilog, Digital Electronics, & General Programming**
 
 - 📫 Reach Out To Me Through: **rudrajoshi002@gmail.com**
+
+- 📄 Know me more through my resume: [https://drive.google.com/file/d/1ZIRXb0kgJUkM5-JPAt9tKULHtjLWWWJs/view?usp=drive_link](https://drive.google.com/file/d/1ZIRXb0kgJUkM5-JPAt9tKULHtjLWWWJs/view?usp=drive_link)
 
 - ⚡ Fun fact **Apart from all these technical things I've also been a state swimming and Water-Polo champion in the state of Gujarat which I guess has no relevance here but still. I also have a habit of reading Literary works in the languages in which I'm proficient. And apart from all these my keen interests lies in understanding of Physics, Politics, Religion (The One With Which I'm Associated), Teaching and Gaming to an extent.**
 
