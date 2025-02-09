@@ -15,7 +15,7 @@
 
 - 📫 Reach Out To Me Through: **rudrajoshi002@gmail.com**
 
-- 📄 Know me more through my resume: [https://drive.google.com/file/d/1ZIRXb0kgJUkM5-JPAt9tKULHtjLWWWJs/view?usp=drive_link](https://drive.google.com/file/d/1ZIRXb0kgJUkM5-JPAt9tKULHtjLWWWJs/view?usp=drive_link)
+- 📄 Know me more through my resume: [Click Here]((https://drive.google.com/file/d/1yqpzf3u0dIUbjjsOIKqbpFOfCamMk6-L/view?usp=drive_link))
 
 - ⚡ Fun fact **Apart from all these technical things I've also been a state swimming and Water-Polo champion in the state of Gujarat which I guess has no relevance here but still. I also have a habit of reading Literary works in the languages in which I'm proficient. And apart from all these my keen interests lies in understanding of Physics, Politics, Religion (The One With Which I'm Associated), Teaching and Gaming to an extent.**
 
